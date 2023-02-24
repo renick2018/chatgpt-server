@@ -1,0 +1,25 @@
+{
+  "name": "chatgpt-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chatgpt": "^4.7.2",
+    "dotenv-safe": "^8.2.0",
+    "expiry-map": "^2.0.0",
+    "http": "^0.0.1-security",
+    "ora": "^6.1.2",
+    "puppeteer": "^19.7.2",
+    "tempy": "^3.0.0"
+  },
+  "devDependencies": {
+    "delay": "^5.0.0",
+    "uuid": "^9.0.0"
+  }
+}
